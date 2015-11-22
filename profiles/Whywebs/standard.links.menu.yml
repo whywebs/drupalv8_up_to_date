@@ -1,0 +1,4 @@
+standard.front_page:
+  title: 'Whywebs Home Page'
+  route_name: '<front>'
+  menu_name: main
